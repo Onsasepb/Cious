@@ -1,0 +1,14 @@
+#lang{
+    display: flex;
+    width: 100%;
+}
+.img2{
+    width: 200px;
+    height: 200px;
+}
+.cls3,.cls2,.cls1{
+    display: grid;
+}
+a{
+    color: purple;
+}

@@ -1,0 +1,20 @@
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+hr{
+    color: aqua;
+}
+h4{
+    color: red;
+}
+body{
+    background-color: lightsalmon;
+}
+img{
+    background-color: lightsalmon;
+}
+div{
+    margin-left: 150px;
+    margin-right: 150px;
+}
